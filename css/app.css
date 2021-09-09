@@ -1,0 +1,71 @@
+.bgLightblue{
+	background: #2196f3;
+	color:  white;
+	padding-bottom: 3em;
+}
+.paseMovilidad{
+	padding:  .9em;
+	font-size: 15px;
+	font-weight: 500;
+}
+.habilitado{
+	text-align: center;
+}
+.habilitado h1{
+	font-weight: 600;
+}
+.infoUser{
+	margin: 0 auto;
+	margin-top: -2.5em;
+	text-align: center;
+
+}
+.rut{
+	margin-top: .1em;
+	font-size: 1.5em;
+	font-weight: 500;
+}
+
+.nombres, .apellidos{
+	font-size: 1.4em;
+	font-weight: 500;
+}
+.likeBtn{
+	width: 100%;
+	margin-top: .7em;
+	background: #2196f3 !important;
+	padding: .5em 0;
+}
+/*.textYellow{
+	background: #fff0a0;
+	text-align: center;
+	font-size: 12px;
+	padding:  18px;
+}*/
+.explicax {
+    background: #fff0a0;
+    padding: 16px;
+    font-size: 11.29px;
+    text-align: center;
+    width: 23rem;
+    margin-top: 1.8em;
+}
+.explicax p{
+	margin-bottom: 0;
+	word-spacing: -1px;
+
+}
+.block {
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+}
+.images{
+	width: 23rem;
+	text-align: center;
+	margin-top: 2em;
+}
+.center{
+	margin: 0 auto;
+	margin-top: 2em;
+}
